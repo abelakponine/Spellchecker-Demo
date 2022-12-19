@@ -1,9 +1,9 @@
 # Spellchecker-Demo
 Quill Editor, React JS, PHP
 
-###=== Setup ===
+### === Setup ===
 
-####-Please note you must have PHP server, Node.Js and ReactJs installed.
+#### -Please note you must have PHP server, Node.Js and ReactJs installed.
 
 1. Install XAMPP and edit httpd.conf file, point in the server document root to ~/Spellechecker root folder and start php server.
 
